@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi Everyone. I am Avi Mittal. I am a Data Enthusiast who loves to analyse it to extract meaningful insights from it.
 
 <!--
 **avii-07/avii-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
