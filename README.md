@@ -7,11 +7,12 @@ Python
 <br>
 MySQL
 <br>
-Numpy,Pandas,Matplotlib,Scikit-learn,Plotly
+Machine Learning,Numpy,Pandas,Matplotlib,Scikit-learn,Plotly
 <br>
 MS-Excel
 <br>
 Power Bi
+
 
 <!--
 **avii-07/avii-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
