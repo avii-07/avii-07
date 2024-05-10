@@ -1,10 +1,16 @@
 ### Hi Everyone. I am Avi Mittal. I am a Data Enthusiast who loves to analyse it to extract meaningful insights from it.
+<br>
 
-#### Skills:
-Python
+#### Skills: 
+<br>
+Python 
+<br>
 MySQL
+<br>
 Numpy,Pandas,Matplotlib,Scikit-learn,Plotly
+<br>
 MS-Excel
+<br>
 Power Bi
 
 <!--
