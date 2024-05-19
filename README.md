@@ -17,7 +17,8 @@
 <br><br>
 
 ### Experience:<br>
-Intern at Ybi Foundation  (Sep 2023 - Oct 2023)<br>
+** Open Source Contributor at GirlScript Summer of Code (GSSOC'24)       (May 2024 - Present) <br><br>
+** Intern at Ybi Foundation  (Sep 2023 - Oct 2023)<br>
 To predict the price of the cars based on the certain features, I created a Car Price Predictor.
 
 
