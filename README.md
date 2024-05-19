@@ -1,15 +1,16 @@
-### Hi Everyone. I am Avi Mittal. I am a Data Enthusiast who loves to analyse it to extract meaningful insights from it.
+## About Me:
+<br>
+### Data Enthusiast who loves to analyse data to extract meaningful insights to drive strategic business decisions. Seeking opportunites in the field of data science and analyst.
 <br>
 
 #### Skills: 
+MS-Excel                                                      Python
 <br>
 Python 
 <br>
 MySQL
 <br>
 Machine Learning,Numpy,Pandas,Matplotlib,Scikit-learn,Plotly
-<br>
-MS-Excel
 <br>
 Power Bi
 
