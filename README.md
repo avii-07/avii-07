@@ -1,18 +1,17 @@
-## About Me:
-<br>
-### Data Enthusiast who loves to analyse data to extract meaningful insights to drive strategic business decisions. Seeking opportunites in the field of data science and analyst.
+
+## Data Enthusiast who loves to analyse data to extract meaningful insights to drive strategic business decisions. Seeking opportunites in the field of data science and analyst.
 <br>
 
-#### Skills: 
-MS-Excel                                                      Python
+### Skills: 
+## MS-Excel                                                   
 <br>
-Python 
+## Python 
 <br>
-MySQL
+## MySQL
 <br>
-Machine Learning,Numpy,Pandas,Matplotlib,Scikit-learn,Plotly
+## Machine Learning,Numpy,Pandas,Matplotlib,Scikit-learn,Plotly
 <br>
-Power Bi
+## Power Bi
 
 
 <!--
