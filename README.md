@@ -2,17 +2,22 @@
 ## Data Enthusiast who loves to analyse data to extract meaningful insights to drive strategic business decisions. Seeking opportunites in the field of data science and analyst.
 <br>
 
-### Skills: 
+### Skills:
 <br>
-## MS-Excel                                                
+* MS-Excel                                                
 <br>
-## Python 
+* Python 
 <br>
-## MySQL
+* MySQL
 <br>
-## Machine Learning,Numpy,Pandas,Matplotlib,Scikit-learn,Plotly
+* Machine Learning,Numpy,Pandas,Matplotlib,Scikit-learn,Plotly
 <br>
-## Power Bi
+* Power Bi
+
+<br>
+### Experience:
+Intern at Ybi Foundation  (Sep 2023 - Oct 2023)
+To predict the price of the cars based on the certain features, I created a Car Price Predictor.
 
 
 <!--
