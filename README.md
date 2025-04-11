@@ -1,5 +1,5 @@
 
-### Data Enthusiast who loves to analyse data to extract meaningful insights to drive strategic business decisions. Seeking opportunites in the field of data science and analyst.
+### Data Enthusiast who loves to analyse data to extract meaningful insights to drive strategic business decisions.
 <br>
 
 ## Skills:
