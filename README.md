@@ -14,10 +14,6 @@
 * Power Bi
 
 <br><br>
-
-## Experience:<br>
-** Open Source Contributor at GirlScript Summer of Code (GSSOC'24)       (May 2024 - July 2024) 
-<br> <br>
 ## GSSOC(24) Badges 🪶
 
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
